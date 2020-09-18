@@ -12,5 +12,7 @@ class MainActivity : AppCompatActivity() {
         //Comment Added On Master Branch
 
         //New Branch Created
+
+        //Comment added on rebase branch
     }
 }
