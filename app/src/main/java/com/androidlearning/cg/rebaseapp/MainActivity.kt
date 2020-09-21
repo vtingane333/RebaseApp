@@ -16,5 +16,7 @@ class MainActivity : AppCompatActivity() {
         //Comment added on rebase branch
 
         //on New Branch
+
+        //Use basic git commands
     }
 }
