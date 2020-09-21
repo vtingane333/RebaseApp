@@ -18,5 +18,7 @@ class MainActivity : AppCompatActivity() {
         //on New Branch
 
         //Use basic git commands
+
+        //comments to be undone
     }
 }
